@@ -28,6 +28,7 @@ $ npm run dev
 
 
 ## 📂 폴더구조
+
 📦src
  ┣ 📂components
  ┃ ┣ 📜SearchBox.tsx
