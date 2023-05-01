@@ -14,16 +14,15 @@
     - AND와 OR 조건 중 하나를 선택하실 수 있습니다.
 5. 필터링 결과 아이템들을 적절한 UI로 표시해 주세요.
 
+
 ## 🕹️ 실행 방법
 ```ts
-$ git clone 레포지토리 주소
+$ git clone https://github.com/Sungrinhan/frontend-humelo.git
 $ cd 레포지토리 이름
-$ yarn i
+$ yarn install
 $ npm run dev
 
 ```
-## 🛠️ 기술 스택
-<!-- Yarn -->
-<img src= "https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+## 🛠️ 기술 스택(추가한 것)
 <!-- Redux Toolkit -->
 <img src="https://img.shields.io/badge/redux tooklit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
