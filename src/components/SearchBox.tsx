@@ -1,5 +1,5 @@
-import { useSelector, useDispatch } from "react-redux";
-import { ReactElement, useEffect, useState } from "react";
+import { useDispatch } from "react-redux";
+import { useEffect, useState } from "react";
 
 import useCheckInput from "../hooks/useCheckInput";
 import useGetLetterList from "../hooks/useGetLetterList";
