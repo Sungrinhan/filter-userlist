@@ -22,6 +22,7 @@ $ cd 레포지토리 이름
 $ yarn install
 $ npm run dev
 ```
+
 ## 🛠️ 기술 스택(추가한 것)
 <!-- Redux Toolkit -->
 <img src="https://img.shields.io/badge/redux tooklit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -29,27 +30,4 @@ $ npm run dev
 
 ## 📂 폴더구조
 
-📦src
- ┣ 📂components
- ┃ ┣ 📜SearchBox.tsx
- ┃ ┗ 📜UserTable.tsx
- ┣ 📂constants
- ┣ 📂hooks
- ┃ ┣ 📜useCheckInput.ts
- ┃ ┣ 📜useGetLetterList.ts
- ┃ ┗ 📜useGetUserList.ts
- ┣ 📂store
- ┃ ┣ 📂reducers
- ┃ ┃ ┗ 📜user.ts
- ┃ ┣ 📂services
- ┃ ┃ ┗ 📜user.ts
- ┃ ┗ 📜index.ts
- ┣ 📂types
- ┃ ┗ 📜index.ts
- ┣ 📂utils
- ┃ ┗ 📜FilteredUserList.ts
- ┣ 📜App.css
- ┣ 📜App.tsx
- ┣ 📜index.css
- ┣ 📜main.tsx
- ┗ 📜vite-env.d.ts
+<img width="225" alt="스크린샷 2023-05-01 오후 9 54 28" src="https://user-images.githubusercontent.com/78065205/235814049-2be80d81-3fc3-43d9-ae87-1b21522da056.png">
